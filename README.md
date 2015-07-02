@@ -1,5 +1,7 @@
 # manhattan
-[![Build Status](https://travis-ci.org/josh-austin/manhattan.svg)](https://travis-ci.org/josh-austin/manhattan) ![Stability](https://img.shields.io/badge/stability-experimental-red.svg)
+[![Build Status](https://travis-ci.org/josh-austin/manhattan.svg)](https://travis-ci.org/josh-austin/manhattan)
+[![npm](https://img.shields.io/badge/npm-0.1.0-green.svg)](https://www.npmjs.com/package/manhattan)
+![Stability](https://img.shields.io/badge/stability-experimental-red.svg)
 
 Command line tool that extracts CSS colors as SCSS variables.
 
