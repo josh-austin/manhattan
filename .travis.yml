@@ -2,4 +2,4 @@ language: node_js
 node_js:
   - stable
   - iojs
-script: npm test-on-travis
+script: npm run-script test-on-travis
